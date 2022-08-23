@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "icon": "https://furkansandal.com/youtuber_app/assets/tick.jpg",
+      "baslik": "Youtube’dan Para Kazanmaya Giriş",
+      "icerik": "<img src='https://furkansandal.com/youtuber_app/assets/ytb3.jpg' width='100%' />\n<h1><center><strong>Hadi Başlayalım</strong>"
+    },
+    {
+      "icon": "https://furkansandal.com/youtuber_app/assets/icon001.jpg",
+      "baslik": "Ders #1 Nedir Bu YouTube?",
+      "icerik": "<img src='https://furkansandal.com/youtuber_app/assets/ytb1.jpg' width='100%' />\n<h1><center><strong>YouTube Nedir ve Nasıl Çalışıyor?</center>"
+    }
+  ],
+  "paylas_text": "Hemen sende Youtube'tan para kazanmaya başla! https://apps.furkansandal.com/",
+  "banner_show": true,
+  "kac_defada_gosterilsin": 8,
+  "paylas_show": true,
+  "banner_id": "test",
+  "gecis_id": "test"
+}
